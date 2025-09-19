@@ -23,3 +23,12 @@ yarn-debug.log*
 yarn-error.log*
 node_modules/
 .env
+# Ignore environment variables
+.env
+backend/.env
+
+# Ignore node modules
+node_modules/
+
+# Ignore build outputs
+/build
